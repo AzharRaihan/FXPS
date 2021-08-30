@@ -1,0 +1,1423 @@
+/*	Tablet PC: 992px.
+  Gutters: 24px.
+  Outer margins: 28px.
+  Inherits styles from: Default Layout.
+-----------------------------------------------------------------
+cols    1     2      3      4      5      6      7      8
+px      68    160    252    344    436    528    620    712    */
+@media only screen and (min-width: 1400px) and (max-width: 1700px) {
+  .banner {
+    /* height: 100vh; */
+  }
+  .book-quote-wrap {
+    padding-left: 275px;
+  }
+  .book-a-quote {
+    padding-top: 75px;
+  }
+  .book-a-quote h2 {
+    font-size: 60px;
+  }
+  .book-quote-description {
+    width: 420px;
+    height: 34px;
+    padding-top: 10px;
+  }
+  .quote-input input {
+    width: 200px;
+    height: 50px;
+    border-radius: 15px;
+  }
+  .quote-button button {
+    width: 447px;
+    height: 55px;
+  }
+  .book-quote-button {
+    width: 447px !important;
+    height: 55px !important;
+  }
+  .spring-circle {
+    width: 210px;
+    height: 210px;
+    margin-left: 0px;
+    margin-top: -30px;
+  }
+  .spring-circle h1 {
+    font-size: 60px;
+  }
+
+  .spring {
+    padding-top: 265px;
+    padding-left: 70px;
+    /* overflow: hidden; */
+  }
+  #spring-bug-cleaning p {
+    font-size: 40px;
+    font-weight: 600;
+    color: #055e5a;
+    margin-top: -15px;
+    margin-left: -155px;
+    transform: skew(11deg, 344deg);
+    /* background: #e5f1f6; */
+    padding-left: 25px;
+  }
+
+  .attached-logo {
+    bottom: 0px;
+    right: -530px;
+  }
+
+  .heading h2 {
+    font-size: 110px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+  }
+  .chatting {
+    padding: 0px 230px 0px 230px;
+  }
+  .sender-avatar {
+    width: 220px;
+    height: 220px;
+    margin-right: 40px;
+  }
+  .sender-avatar img {
+    width: 220px;
+    height: 220px;
+  }
+  .receiver-avatar {
+    width: 220px;
+    height: 220px;
+    margin-right: 40px;
+  }
+  .receiver-avatar img {
+    width: 220px;
+    height: 220px;
+  }
+
+  .chatting {
+    padding: 0px 115px 50px 115px;
+  }
+  .contact-content-wrap {
+    padding: 15px 150px 0px 150px;
+  }
+  .contact-or {
+    font-size: 70px;
+    margin-top: -70px;
+  }
+
+  .social-body {
+    margin-top: -200px;
+  }
+  .clients {
+    max-width: 1000px;
+  }
+}
+
+/*	Tablet PC: 992px.
+  Gutters: 24px.
+  Outer margins: 28px.
+  Inherits styles from: Default Layout.
+-----------------------------------------------------------------
+cols    1     2      3      4      5      6      7      8
+px      68    160    252    344    436    528    620    712    */
+@media only screen and (min-width: 1200px) and (max-width: 1398.98px) {
+  .book-a-quote {
+    padding-top: 100px;
+  }
+  /* .banner {
+    height: 100vh;
+  } */
+  .book-quote-wrap {
+    padding-left: 205px;
+  }
+  .book-a-quote {
+    padding-top: 75px;
+  }
+  .book-a-quote h2 {
+    font-size: 45px;
+    height: 120px;
+  }
+  .book-quote-description {
+    width: 415px;
+    height: 34px;
+    padding-top: 10px;
+  }
+  .quote-input input {
+    width: 175px;
+    height: 45px;
+    border-radius: 15px;
+  }
+  .quote-button button {
+    width: 395px;
+    height: 50px;
+  }
+  .book-quote-button {
+    width: 395px !important;
+    height: 55px !important;
+  }
+
+  #spring-bug-cleaning p {
+    font-size: 40px;
+    font-weight: 600;
+    margin-top: -15px;
+    margin-left: -190px;
+    padding-left: 25px;
+  }
+  .spring-circle {
+    width: 210px;
+    height: 210px;
+    margin-left: 20px;
+    margin-top: -15px;
+  }
+  .spring-circle h1 {
+    font-size: 50px;
+  }
+  .spring {
+    padding-top: 245px;
+    padding-left: 57px;
+  }
+  .attached-logo {
+    bottom: 0px;
+    right: -559px;
+  }
+  .about-content {
+    margin-left: 145px;
+  }
+  .heading h2 {
+    height: 160px;
+    font-size: 110px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+  }
+  .chatting {
+    padding: 0px 230px 0px 230px;
+  }
+  .sender-avatar {
+    width: 220px;
+    height: 220px;
+    margin-right: 40px;
+  }
+  .sender-avatar img {
+    width: 220px;
+    height: 220px;
+  }
+  .receiver-avatar {
+    width: 220px;
+    height: 220px;
+    margin-right: 40px;
+  }
+  .receiver-avatar img {
+    width: 220px;
+    height: 220px;
+  }
+
+  .chatting {
+    padding: 0px 115px 40px 115px;
+  }
+  .contact-content-wrap {
+    padding: 15px 150px 0px 150px;
+  }
+  .contact-or {
+    font-size: 60px;
+    margin-top: -50px;
+    padding-left: 32px;
+  }
+  .r-message-2 {
+    width: 286px;
+    height: 58px;
+    padding-top: 23px;
+  }
+  .r-message-5 {
+    width: 312px;
+    height: 95px;
+    padding-top: 20px;
+  }
+  .email-info h4 {
+    font-size: 25px;
+    padding-bottom: 20px;
+  }
+  .clients {
+    max-width: 890px;
+  }
+  .social-body {
+    margin-top: -200px;
+  }
+}
+
+/*	Tablet PC: 992px.
+  Gutters: 24px.
+  Outer margins: 28px.
+  Inherits styles from: Default Layout.
+-----------------------------------------------------------------
+cols    1     2      3      4      5      6      7      8
+px      68    160    252    344    436    528    620    712    */
+@media only screen and (min-width: 992px) and (max-width: 1199.98px) {
+  .book-a-quote {
+    padding-top: 100px;
+  }
+  /* .banner {
+    height: 100vh;
+  } */
+  .book-quote-wrap {
+    padding-left: 100px;
+  }
+  .book-a-quote {
+    padding-top: 75px;
+  }
+  .book-a-quote h2 {
+    font-size: 50px;
+    height: 120px;
+  }
+  .book-quote-description {
+    width: 400px;
+    height: 34px;
+    padding-top: 10px;
+  }
+  .quote-input input {
+    width: 175px;
+    height: 45px;
+    border-radius: 15px;
+  }
+  .quote-button button {
+    width: 395px;
+    height: 50px;
+  }
+  .book-quote-button {
+    width: 395px !important;
+    height: 50px !important;
+  }
+
+  .spring-circle {
+    width: 200px;
+    height: 200px;
+    margin-left: 20px;
+    margin-top: -24px;
+  }
+  .spring-circle h1 {
+    font-size: 30px;
+  }
+  .spring {
+    padding-top: 250px;
+    padding-left: 60px;
+  }
+  #spring-bug-cleaning p {
+    font-size: 28px;
+    margin-top: 5px;
+    margin-left: -134px;
+    transform: skew(11deg, 344deg);
+    background: #e5f1f6;
+    padding-left: 25px;
+  }
+  #spring-bug-cleaning img {
+    max-width: 250px;
+    transform: skew(342deg, 12deg);
+  }
+  .attached-logo {
+    display: none;
+  }
+  .about-content-wrap {
+    padding: 0px 140px 25px 140px;
+  }
+  .about-content {
+    margin-left: 225px;
+    margin-bottom: 50px;
+  }
+  .heading h2 {
+    height: 130px;
+    font-size: 80px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+  }
+  .chatting {
+    padding: 0px 230px 0px 230px;
+  }
+  .sender-avatar {
+    width: 200px;
+    height: 200px;
+    margin-right: 40px;
+  }
+  .sender-avatar img {
+    width: 200px;
+    height: 200px;
+  }
+  .receiver-avatar {
+    width: 200px;
+    height: 200px;
+    margin-right: 40px;
+  }
+  .receiver-avatar img {
+    width: 200px;
+    height: 200px;
+  }
+
+  .chatting {
+    padding: 0px 65px 30px 65px;
+  }
+  .contact-content-wrap {
+    padding: 15px 40px 0px 40px;
+  }
+  .contact-or {
+    font-size: 55px;
+    margin-top: -30px;
+    padding-left: 32px;
+  }
+  .r-message-2 {
+    width: 286px;
+    height: 62px;
+    padding-top: 23px;
+  }
+  .r-message-5 {
+    width: 312px;
+    height: 83px;
+    padding-top: 20px;
+  }
+  .email-info h4 {
+    font-size: 23px;
+    padding-bottom: 20px;
+  }
+  .contact {
+    padding-top: 20px;
+  }
+  .r-message-1 {
+    height: 121px;
+  }
+  .s-message-2 {
+    width: 276px;
+    height: 60px;
+  }
+  .s-message-3 {
+    width: 276px;
+    height: 48px;
+  }
+  .r-message-3 {
+    height: 63px;
+  }
+  .s-message-5 {
+    height: 121px;
+  }
+  .r-message-4 {
+    height: 83px;
+  }
+  .s-message-7 {
+    height: 123px;
+  }
+  .s-message-8 {
+    height: 104px;
+  }
+  .r-message-6 {
+    height: 102px;
+  }
+  .social-body {
+    margin-top: -250px;
+  }
+  .clients {
+    max-width: 840px;
+  }
+
+
+  /* Social */
+  .post-wrap {
+    flex-direction: column;
+  }
+  .post{
+    width: 100%;
+    height: 500px;
+  }
+  .post iframe {
+    width: 100%;
+    height: 100%;
+  }
+  .social-body {
+    height: auto;
+  }
+
+}
+
+/*	Tablet Layout: 768px.
+    Gutters: 24px.
+    Outer margins: 28px.
+    Inherits styles from: Default Layout.
+  -----------------------------------------------------------------
+  cols    1     2      3      4      5      6      7      8
+  px      68    160    252    344    436    528    620    712    */
+@media only screen and (min-width: 768px) and (max-width: 991.98px) {
+  .logo-wrap {
+    padding-top: 40px;
+    padding-left: 50px;
+  }
+  .logo-wrap .logo {
+    width: 50px;
+    height: 50px;
+  }
+  .logo-wrap .fxps-logo {
+    width: 103px;
+    height: 30px;
+  }
+  .menu ul li {
+    padding-top: 3px;
+    font-size: 18px;
+  }
+  .header {
+    line-height: 132px !important;
+  }
+  .book-a-quote {
+    padding-top: 100px;
+  }
+  /* .banner {
+    height: 100vh;
+  } */
+  .book-quote-wrap {
+    padding-left: 70px;
+  }
+  .book-a-quote {
+    padding-top: 75px;
+  }
+  .book-a-quote h2 {
+    font-size: 40px;
+    height: 110px;
+  }
+  .book-quote-description {
+    width: 365px;
+    height: 40px;
+    padding-top: 10px;
+  }
+  .quote-input input {
+    width: 160px;
+    height: 43px;
+    border-radius: 12px;
+  }
+  input[type="text"] {
+    padding-left: 13px;
+  }
+  .quote-button button {
+    width: 353px;
+    height: 46px;
+  }
+  .book-quote-button {
+    width: 353px !important;
+    height: 46px !important;
+  }
+  #spring-bug-cleaning img {
+    max-width: 230px;
+    transform: skew(353deg, 11deg);
+  }
+  #spring-bug-cleaning p {
+    font-size: 25px;
+    margin-top: -132px;
+    margin-left: 135px;
+    transform: skew(11deg, 344deg);
+    background: #e5f1f6;
+    padding-left: 25px;
+  }
+  .spring-circle {
+    width: 200px;
+    height: 200px;
+    margin-left: 20px;
+    margin-top: -40px;
+  }
+  .spring-circle h1 {
+    font-size: 30px;
+  }
+  .spring {
+    padding-top: 240px;
+    padding-left: 10px;
+  }
+  .attached-logo {
+    display: none;
+  }
+  .about-content-wrap {
+    padding: 0px 80px 25px 80px;
+  }
+  .about-content {
+    margin-left: 135px;
+    margin-bottom: 50px;
+  }
+  .heading h2 {
+    height: 120px;
+    font-size: 70px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+  }
+  .chatting {
+    padding: 0px 230px 0px 230px;
+  }
+  .sender-avatar {
+    width: 150px;
+    height: 150px;
+    margin-right: 40px;
+  }
+  .sender-avatar img {
+    width: 150px;
+    height: 150px;
+  }
+  .receiver-avatar {
+    width: 150px;
+    height: 150px;
+    margin-right: 40px;
+  }
+  .receiver-avatar img {
+    width: 150px;
+    height: 150px;
+  }
+  .chatting {
+    padding: 0px 30px 0px 30px;
+  }
+  .contact-content-wrap {
+    flex-direction: column;
+    padding: 15px 40px 30px 40px;
+  }
+  .contact-or {
+    font-size: 55px;
+    margin-top: 20px;
+    padding-left: 32px;
+  }
+  .email-info h4 {
+    font-size: 23px;
+    padding-bottom: 15px;
+  }
+  .email-info > p {
+    padding-bottom: 15px;
+  }
+  .dot-wrap {
+    margin-bottom: 20px;
+    margin-top: 10px;
+  }
+  .contact {
+    padding-top: 20px;
+  }
+  .s-message-1 {
+    width: 355px;
+    height: 140px;
+  }
+  .r-message-2 {
+    height: 62px;
+    padding-top: 23px;
+    margin-right: 50px;
+  }
+  .r-message-5 {
+    width: 312px;
+    height: 95px;
+    padding-top: 20px;
+  }
+  .r-message-5 {
+    height: 83px;
+  }
+  .r-message-1 {
+    height: 121px;
+  }
+  .s-message-2 {
+    width: 276px;
+    height: 60px;
+  }
+  .s-message-3 {
+    width: 276px;
+    height: 48px;
+  }
+  .r-message-3 {
+    height: 63px;
+  }
+  .s-message-5 {
+    height: 121px;
+  }
+  .r-message-4 {
+    height: 83px;
+    margin-right: 50px;
+  }
+  .s-message-7 {
+    height: 123px;
+  }
+  .s-message-8 {
+    height: 104px;
+  }
+  .r-message-6 {
+    height: 102px;
+  }
+  .clients {
+    max-width: 690px;
+  }
+  .social-body {
+    margin-top: -250px;
+  }
+
+   /* Social */
+   .post-wrap {
+    flex-direction: column;
+  }
+  .post{
+    width: 100%;
+    height: 500px;
+  }
+  .post iframe {
+    width: 100%;
+    height: 100%;
+  }
+  .social-body {
+    height: auto;
+  }
+}
+
+/*	Wide Mobile Layout: 431.
+    Gutters: 24px.
+    Outer margins: 22px.
+    Inherits styles from: Default Layout, Mobile Layout.
+  ------------------------------------------------------------
+  cols    1     2      3      4      5
+  px      68    160    252    344    436    */
+
+@media only screen and (min-width: 636px) and (max-width: 767.98px) {
+  .header {
+    line-height: 98px;
+  }
+  .logo-wrap {
+    padding-top: 25px;
+    padding-left: 50px;
+  }
+  .logo-wrap .logo {
+    width: 50px;
+    height: 50px;
+  }
+  .logo-wrap .fxps-logo {
+    width: 103px;
+    height: 30px;
+  }
+  .menu ul li {
+    padding-top: 3px;
+    font-size: 18px;
+  }
+  .book-a-quote {
+    padding-top: 100px;
+  }
+  .banner {
+    /* height: 100vh; */
+  }
+  .book-quote-wrap {
+    padding-left: 100px;
+  }
+  .book-a-quote {
+    padding-top: 75px;
+  }
+  .book-a-quote h2 {
+    font-size: 40px;
+    height: 110px;
+  }
+  .book-quote-description {
+    width: 365px;
+    height: 40px;
+    padding-top: 10px;
+  }
+  .quote-input input {
+    width: 160px;
+    height: 43px;
+    border-radius: 12px;
+  }
+  input[type="text"] {
+    padding-left: 13px;
+  }
+  .quote-button button {
+    width: 353px;
+    height: 46px;
+  }
+  .book-quote-button {
+    width: 353px !important;
+    height: 46px !important;
+  }
+  .spring-circle {
+    width: 200px;
+    height: 200px;
+    margin-left: 20px;
+    margin-top: -27px;
+  }
+  .spring-circle h1 {
+    font-size: 30px;
+  }
+  .spring {
+    display: none;
+  }
+
+  .attached-logo {
+    display: none;
+  }
+  .about-content-wrap {
+    padding: 0px 30px 25px 30px;
+  }
+  .about-content {
+    margin-left: 90px;
+    margin-bottom: 34px;
+  }
+  .heading h2 {
+    height: 105px;
+    font-size: 60px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+  }
+  .chatting {
+    padding: 0px 230px 0px 230px;
+  }
+  .sender-avatar {
+    width: 100px;
+    height: 100px;
+    margin-right: 40px;
+  }
+  .sender-avatar img {
+    width: 100px;
+    height: 100px;
+  }
+  .receiver-avatar {
+    width: 100px;
+    height: 100px;
+    margin-right: 40px;
+  }
+  .receiver-avatar img {
+    width: 100px;
+    height: 100px;
+  }
+  .chatting {
+    padding: 0px 20px 0px 20px;
+  }
+  .contact-content-wrap {
+    flex-direction: column;
+    padding: 15px 40px 30px 40px;
+  }
+  .contact-or {
+    height: 102px;
+    font-size: 40px;
+    margin-top: 16px;
+    padding-left: 65px;
+  }
+  .email-info h4 {
+    font-size: 23px;
+    padding-bottom: 15px;
+  }
+  .email-info > p {
+    padding-bottom: 15px;
+  }
+  .dot-wrap {
+    margin-bottom: 20px;
+    margin-top: 10px;
+  }
+  .contact {
+    padding-top: 60px;
+  }
+  .s-message-1 {
+    width: 300px;
+    height: 160px;
+  }
+
+  .r-message-2 {
+    height: 62px;
+    padding-top: 23px;
+    margin-right: 50px;
+  }
+  .r-message-5 {
+    width: 312px;
+    height: 95px;
+    padding-top: 20px;
+  }
+  .r-message-5 {
+    height: 83px;
+  }
+  .r-message-1 {
+    height: 121px;
+  }
+  .s-message-2 {
+    width: 276px;
+    height: 60px;
+  }
+  .s-message-3 {
+    width: 276px;
+    height: 48px;
+  }
+  .r-message-3 {
+    height: 63px;
+  }
+  .s-message-5 {
+    height: 121px;
+  }
+  .r-message-4 {
+    height: 83px;
+    margin-right: 50px;
+  }
+  .s-message-7 {
+    height: 123px;
+  }
+  .s-message-8 {
+    height: 104px;
+  }
+  .r-message-6 {
+    height: 102px;
+  }
+  .receiver {
+    justify-content: flex-end;
+  }
+  .clients {
+    max-width: 490px;
+  }
+  .social-body {
+    margin-top: -280px;
+    height: auto;
+  }
+  .post-wrap {
+    flex-direction: column;
+  }
+  .post {
+    width: 100%;
+  }
+}
+
+/*	Wide Mobile Layout: 360.
+    Gutters: 24px.
+    Outer margins: 22px.
+    Inherits styles from: Default Layout, Mobile Layout.
+  ------------------------------------------------------------
+  cols    1     2      3      4      5
+  px      68    160    252    344    436    */
+
+@media only screen and (min-width: 485px) and (max-width: 635px) {
+  .header {
+    line-height: 81px;
+  }
+  .logo-wrap {
+    padding-top: 12px;
+    padding-left: 20px;
+  }
+  .logo-wrap .logo {
+    width: 45px;
+    height: 45px;
+    padding-top: 5px;
+  }
+  .logo-wrap .fxps-logo {
+    width: 75px;
+    height: 27px;
+  }
+  .menu ul li {
+    padding-top: 0px;
+    font-size: 18px;
+    padding-left: 20px;
+  }
+  .attached-logo-2 {
+    display: none;
+  }
+  .attached-logo-2 img {
+    display: none;
+  }
+  .book-a-quote {
+    padding-top: 100px;
+  }
+  /* .banner {
+    height: 100vh;
+  } */
+  .book-quote-wrap {
+    padding-left: 0px;
+    margin: auto !important;
+  }
+
+  .book-a-quote {
+    padding-top: 130px;
+  }
+  .book-a-quote h2 {
+    font-size: 40px;
+    height: 110px;
+    text-align: center;
+  }
+  .book-quote-description p {
+    text-align: center;
+  }
+  .book-quote-description {
+    width: 365px;
+    height: 40px;
+    padding-top: 10px;
+  }
+  .quote-input input {
+    width: 160px;
+    height: 43px;
+    border-radius: 12px;
+  }
+  input[type="text"] {
+    padding-left: 13px;
+  }
+  .quote-button button {
+    width: 353px;
+    height: 46px;
+  }
+  .book-quote-button {
+    width: 353px !important;
+    height: 46px !important;
+  }
+  .spring-circle {
+    width: 200px;
+    height: 200px;
+    margin-left: 20px;
+    margin-top: -27px;
+  }
+  .spring-circle h1 {
+    font-size: 30px;
+  }
+  .spring {
+    display: none;
+  }
+
+  .attached-logo {
+    display: none;
+  }
+  .about-content-wrap {
+    padding: 0px 30px 25px 30px;
+  }
+  .about-content {
+    width: 100%;
+    height: 95px;
+    font-size: 15px;
+    margin-left: 0px;
+  }
+  .heading h2 {
+    height: 105px;
+    font-size: 60px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+  }
+  .chatting {
+    padding: 0px 230px 0px 230px;
+  }
+  .sender-avatar {
+    display: none;
+  }
+  .sender-avatar img {
+    display: none;
+  }
+  .receiver-avatar {
+    display: none;
+  }
+  .receiver-avatar img {
+    display: none;
+  }
+  .chatting {
+    padding: 0px 20px 0px 20px;
+  }
+  .contact-content-wrap {
+    flex-direction: column;
+    padding: 15px 40px 30px 40px;
+  }
+  .contact-or {
+    height: 102px;
+    font-size: 40px;
+    margin-top: 16px;
+    padding-left: 65px;
+  }
+  .email-info h4 {
+    font-size: 23px;
+    padding-bottom: 15px;
+  }
+  .email-info > p {
+    padding-bottom: 15px;
+  }
+  .dot-wrap {
+    margin-bottom: 20px;
+    margin-top: 10px;
+  }
+  .contact {
+    padding-top: 20px;
+  }
+  .s-message-1 {
+    width: 300px;
+    height: 160px;
+  }
+  .r-message-2 {
+    height: 62px;
+    padding-top: 23px;
+    margin-right: 0px;
+  }
+  .r-message-5 {
+    width: 312px;
+    height: 95px;
+    padding-top: 20px;
+  }
+  .r-message-5 {
+    height: 83px;
+  }
+  .r-message-1 {
+    height: 121px;
+  }
+  .s-message-2 {
+    width: 276px;
+    height: 60px;
+  }
+  .s-message-3 {
+    width: 276px;
+    height: 48px;
+  }
+  .r-message-3 {
+    height: 63px;
+  }
+  .s-message-5 {
+    height: 121px;
+  }
+  .r-message-4 {
+    height: 83px;
+    margin-right: 0px;
+  }
+  .s-message-7 {
+    height: 123px;
+  }
+  .s-message-8 {
+    height: 104px;
+  }
+  .r-message-6 {
+    height: 102px;
+  }
+  .receiver {
+    justify-content: flex-start;
+  }
+  .receiver {
+    justify-content: flex-end;
+  }
+  .receiver-message p::after {
+    right: 6px;
+    bottom: 3px;
+    border-top: 5px solid transparent;
+    border-left: 46px solid #f2a736;
+    border-bottom: -3px solid transparent;
+    transform: skew(278deg, 37deg);
+  }
+  .sender-message p::before {
+    left: 20px;
+    bottom: 32px;
+    border-top: 20px solid transparent;
+    border-bottom: -3px solid transparent;
+    transform: skew(351deg, 324deg);
+  }
+  .spring-bug-quote {
+    display: block;
+  }
+  .clients {
+    max-width: 450px;
+  }
+  .social-body {
+    margin-top: -250px;
+    height: auto;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+  .post-wrap {
+    flex-direction: column;
+  }
+  .post {
+    width: 100%;
+  }
+  .social-icon h3 {
+    font-size: 28px;
+    padding-right: 15px;
+  }
+}
+
+/*	Wide Mobile Layout: 310.
+    Gutters: 24px.
+    Outer margins: 22px.
+    Inherits styles from: Default Layout, Mobile Layout.
+  ------------------------------------------------------------
+  cols    1     2      3      4      5
+  px      68    160    252    344    436    */
+
+@media only screen and (min-width: 310px) and (max-width: 484px) {
+  .header {
+    line-height: 57px;
+  }
+
+  .logo-wrap {
+    padding-top: 5px;
+    padding-left: 8px;
+  }
+  .logo-wrap .logo {
+    width: 35px;
+    height: 35px;
+    padding-top: 5px;
+  }
+  .logo-wrap .fxps-logo {
+    width: 53px;
+    height: 18px;
+  }
+  .menu ul li {
+    padding-top: 0px;
+    font-size: 14px;
+    padding-left: 12px;
+  }
+  .attached-logo-2 {
+    display: none;
+  }
+  .attached-logo-2 img {
+    display: none;
+  }
+  .book-a-quote {
+    padding-top: 100px;
+  }
+  /* .banner {
+    height: 100vh;
+  } */
+  .book-quote-wrap {
+    padding-left: 0px;
+    margin: auto !important;
+  }
+
+  .book-a-quote {
+    padding-top: 100px;
+  }
+  .book-a-quote h2 {
+    width: 100%;
+    font-size: 30px;
+    height: 85px;
+    text-align: center;
+  }
+  .quote-input-child {
+    justify-content: center;
+  }
+  .book-quote-description {
+    width: 94%;
+    height: 40px;
+    padding: 10px;
+  }
+  .book-quote-description p {
+    text-align: center;
+  }
+  .quote-input input {
+    width: 135px;
+    height: 43px;
+    border-radius: 12px;
+  }
+  input[type="text"] {
+    padding-left: 13px;
+  }
+  .quote-button {
+    text-align: center;
+  }
+  .quote-button button {
+    width: 300px;
+    height: 46px;
+  }
+  .book-quote-button {
+    width: 300px !important;
+    height: 46px !important;
+  }
+  .spring-circle {
+    width: 200px;
+    height: 200px;
+    margin-left: 20px;
+    margin-top: -27px;
+  }
+  .spring-circle h1 {
+    font-size: 30px;
+  }
+  .spring {
+    display: none;
+  }
+
+  .attached-logo {
+    display: none;
+  }
+  .about-content-wrap {
+    padding: 0px 10px 25px 10px;
+  }
+  .about-content {
+    width: 100%;
+    height: 80px;
+    font-size: 15px;
+    margin-left: 0px;
+    margin-bottom: 20px;
+  }
+  .about-content p {
+    font-size: 12px;
+  }
+  .heading h2 {
+    height: 90px;
+    font-size: 45px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+  }
+  .chatting {
+    padding: 0px 230px 0px 230px;
+  }
+  .sender-avatar {
+    display: none;
+  }
+  .sender-avatar img {
+    display: none;
+  }
+  .receiver-avatar {
+    display: none;
+  }
+  .receiver-avatar img {
+    display: none;
+  }
+
+  .chatting {
+    padding: 0px 20px 0px 20px;
+  }
+  .contact-content-wrap {
+    flex-direction: column;
+    padding: 15px 10px 30px 10px;
+  }
+  .contact-or {
+    height: 102px;
+    font-size: 40px;
+    margin-top: 16px;
+    padding-left: 65px;
+  }
+  .email-info h4 {
+    font-size: 23px;
+    padding-bottom: 15px;
+  }
+  .email-info > p {
+    padding-bottom: 15px;
+  }
+  .dot-wrap {
+    margin-bottom: 20px;
+    margin-top: 10px;
+  }
+  .contact {
+    padding-top: 20px;
+  }
+  .s-message-1,
+  .s-message-2,
+  .s-message-3,
+  .s-message-4,
+  .s-message-5,
+  .s-message-6,
+  .s-message-7,
+  .s-message-8,
+  .s-message-9,
+  .s-message-10,
+  .s-message-11,
+  .s-message-12 {
+    width: 290px;
+  }
+  .r-message-1,
+  .r-message-2,
+  .r-message-3,
+  .r-message-4,
+  .r-message-5,
+  .r-message-6 {
+    width: 230px;
+  }
+  .s-message-1 {
+    height: 160px;
+  }
+  .r-message-2 {
+    height: 85px;
+    padding-top: 23px;
+    margin-right: 50px;
+  }
+  .r-message-5 {
+    width: 312px;
+    height: 95px;
+    padding-top: 20px;
+  }
+  .r-message-5 {
+    height: 104px;
+    width: 230px;
+  }
+  .r-message-1 {
+    height: 163px;
+  }
+  .s-message-3 {
+    height: 48px;
+  }
+  .r-message-3 {
+    height: 63px;
+  }
+  .s-message-5 {
+    height: 121px;
+  }
+  .r-message-4 {
+    height: 126px;
+    margin-right: 0px;
+  }
+  .s-message-4,
+  .s-message-6 {
+    height: 220px;
+  }
+  .s-message-7 {
+    height: 143px;
+  }
+  .s-message-8 {
+    height: 122px;
+  }
+  .s-message-10 {
+    height: 142px;
+  }
+  .s-message-11 {
+    height: 198px;
+  }
+  .r-message-6 {
+    height: 144px;
+  }
+  .sender {
+    justify-content: center;
+  }
+  .receiver {
+    justify-content: center;
+  }
+
+  .receiver-message p::after {
+    right: 6px;
+    bottom: 3px;
+    border-top: 5px solid transparent;
+    border-left: 46px solid #f2a736;
+    border-bottom: -3px solid transparent;
+    transform: skew(278deg, 37deg);
+  }
+
+  .sender-message p::before {
+    left: 20px;
+    bottom: 32px;
+    border-top: 20px solid transparent;
+    border-bottom: -3px solid transparent;
+    transform: skew(351deg, 324deg);
+  }
+  .spring-bug-quote {
+    display: block;
+  }
+  .clients {
+    max-width: 295px;
+  }
+  .cornfox-wrap {
+    flex-direction: column;
+  }
+  .we-done h4 {
+    text-align: center;
+    color: #055e5a;
+    padding: 20px 10px 0px 10px;
+  }
+  .brand-logo-wrap {
+    flex-direction: column;
+  }
+  .brand-logo {
+    width: 80%;
+    margin: auto;
+    margin-bottom: 20px;
+  }
+  .brand-logo img {
+    width: 50%;
+  }
+  .social-body {
+    margin-top: -300px;
+    height: auto;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+  .post-wrap {
+    flex-direction: column;
+    padding: 5px;
+  }
+  .post {
+    width: 100%;
+  }
+  .social-icon h3 {
+    font-size: 20px;
+    padding-right: 5px;
+    padding-left: 5px;
+  }
+  .social-icon a {
+    text-decoration: none;
+    width: 35px;
+    height: 35px;
+    margin-right: 5px;
+    font-size: 18px;
+  }
+}

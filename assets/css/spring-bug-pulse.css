@@ -1,0 +1,18 @@
+.inner {
+    display: inline-block;
+    vertical-align: top;
+    position: relative;
+    animation: pulse 1s infinite linear;
+}
+
+@keyframes pulse {
+    0% {
+        transform: scaleX(1)
+    }
+    50% {
+        transform: scale3d(1.05, 1.05, 1.05)
+    }
+    to {
+        transform: scaleX(1)
+    }
+}
